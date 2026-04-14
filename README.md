@@ -56,13 +56,10 @@ Synthetic balancing improved class symmetry and precision, but **reduced recall 
 
 ## 📊 Model Configurations
 
-| Configuration  
-| Precision | Recall   | F1-Score |
-| ------------- | -------------------------- | --------- | -------- | -------- |
-| **Version A** 
-| **0.92**  | **0.71** | **0.81**    |
-| **Version B**
-| **0.76**  | **0.80** | **0.78** |
+| Configuration | Precision | Recall   | F1-Score |
+| ------------- | --------- | -------- | -------- |
+| **Version A** | **0.92**     | **0.71** | **0.81**    |
+| **Version B** | **0.76**  | **0.80**    | **0.78** |
 
 ---
 
