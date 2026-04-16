@@ -13,9 +13,9 @@ A high-performance machine learning model to predict diabetes risk using clinica
 * **F1-Score:** 0.78
 * 
 * **Generalization Gap:** ~0.003
-
+* 
 * **Precision:** 0.76
-
+* 
 * **Recall:** 0.80
 
 ---
@@ -98,3 +98,6 @@ Synthetic balancing improved class symmetry and precision, but **reduced recall 
 ## ⭐ Conclusion
 
 This project demonstrates that **domain-driven feature engineering combined with cost-sensitive learning** can deliver reliable and clinically meaningful performance in imbalanced healthcare datasets.
+
+**Developed by Uzair — Computer Science Student & Data Science Enthusiast.**
+
